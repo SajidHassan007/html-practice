@@ -1,0 +1,47 @@
+h1 {
+    font-size: 45px;
+}
+
+li, p{
+    font-size: 20px;
+}
+
+
+
+a {
+    border-radius: 3px;
+    padding: 2px;
+    text-decoration: none;
+    color: black;
+}
+
+.a-red{
+    background-color: #FFB2B280;
+}
+
+.a-green{
+    background-color: rgba(17, 182, 165, .2);
+}
+
+.style{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-shadow:  2px 2px;
+}
+
+
+
+#home-page{
+    background-color: beige;
+    border-style: dotted;
+    margin:200px;
+    padding: 50px;
+}
+
+#home-page1{
+    font-size: 5px;
+    background-color: rgb(158, 158, 33);
+    border-style: dotted;
+    margin:200px;
+    padding: 50px;
+}
